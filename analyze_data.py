@@ -74,3 +74,7 @@ th_med['price per SF'].iplot(asPlot=True)
 condos = all_data_cln[all_data_cln['Subdiv Desc'].str.contains('CONDO')]
 condo_med = condos.groupby([condos.index.year, condos.index.month]).median()
 condo_med['price per SF'].iplot(asPlot=True)
+
+# TODO: add 2019 data and plot
+# fbprophet model and examine monthly trends
+# look at distribution of prices in a month and decide median vs mean or otherwise
