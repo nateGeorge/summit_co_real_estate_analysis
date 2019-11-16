@@ -1,4 +1,4 @@
-# summit_co_real_estate_analysis
+# Summit County Real Estate Analysis
 After buying and living in a condo in the mountains for a few years, I decided it was time to sell.  I was able to qualify as living in the condo full-time due to working remotely in the summers and sometimes on long weekends during the winter, which gave me greater than 50% of my living time at the condo.  From watching the market for a few years, I had noticed prices seemed to dip at the end of the summer, and be higher in the winter ski season.  I wondered if there were any significant differences between selling in January or waiting a month of two, and analyzed past sales data to answer this question.
 
 ## Data Source
