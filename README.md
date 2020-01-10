@@ -4,7 +4,7 @@ After buying and partially living (summers and weekends) in a condo in the mount
 The conclusion is that price does not seem to have any significant monthly trend, but has been in a strong uptrend for several years and seems to match the general stock market.  The more important factor for when to buy and sell is the supply of housing.  Supply is at a minimum around January each year, and a maximum in late summer.  Consequently, it's best to sell around January and buy around August if possible, as this will maximize your leverage in negotiations.
 
 ## Data Source
-Fortunately, Summit County makes [recent sales data public](http://www.co.summit.co.us/389/Sales-Reports).  I manually downloaded all the excel files since there aren't that many.  The data for each property in Summit County is also publicly available [here](http://gis.summitcountyco.gov/Map/), although some web scraping would need to be done to collect it all.  For example, [here's a treehouse condo unit](http://gis.summitcountyco.gov/Map/DetailData.aspx?Schno=6507154).
+Fortunately, Summit County makes [recent sales data public](http://www.co.summit.co.us/389/Sales-Reports).  I manually downloaded all the excel files since there aren't that many.  The data for each property in Summit County is also publicly available [here](http://gis.summitcountyco.gov/Map/), although some web scraping would need to be done to collect it all.  For example, [here's a treehouse condo unit](http://gis.summitcountyco.gov/Map/DetailData.aspx?Schno=601192).
 
 ## Results
 First, one reason I believed prices might be higher in the winter is due to low supply.  I had seen this in realtors' newsletters, and here is the raw data:
